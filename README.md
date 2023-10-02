@@ -1,4 +1,4 @@
 # tut-1
 learning git github
 <br>
-author - shucrates
+author - shucrates (Shubham patil)
